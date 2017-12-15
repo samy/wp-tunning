@@ -6,22 +6,19 @@ Differents hooks and functions for improve WordPress and basic customize in a pl
 - Hide connections errors
 - Deactivate author page and author link
 
-## Média
+## Media
 - No french punctuation and accents for filename
 - Add medium format `medium_large` to media in admin
 
-## Divers
+## Miscellaneous
 - Dashboard cleaning
 - Disallow file editor
 - Deactive Emoji
 - Remove `H1` from the WordPress editor
 
-## Head cleanning
+## Head cleaning
 - Deactivate WordPress version
 - Remove Windows Live Writer Manifest
 - Deactivate XML-RPC
 - Deactivate RSS feed
 - Deactivate Comment RSS feed
-
-
-
