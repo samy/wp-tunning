@@ -26,6 +26,6 @@ add_action( 'admin_bar_menu', 'remove_yoast_bar', 99 );
 
 
 /****
-A mettre en place :
+To implement :
 https://blog.futtta.be/2017/08/28/no-author-pages/
 */
